@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Esther-10
 - 👀 I’m interested in Cloud computing
-- 🌱 I’m currently learning linux and docker
+- 🌱 I’m currently learning docker and kubernetes
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me estherolowoloba@outlook.com
 
